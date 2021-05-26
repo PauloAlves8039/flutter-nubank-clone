@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:nubank_clone/pages/home/widgets/my_app_bar.dart';
+import 'package:nubank_clone/pages/home/widgets/my_dots_app.dart';
 import 'package:nubank_clone/pages/home/widgets/page_view_app.dart';
 
 class HomePage extends StatefulWidget {
@@ -41,6 +42,12 @@ class _HomePageState extends State<HomePage> {
                 _currentIndex = index;
               });
             },
+          ),
+          Positioned(
+            top: _screenHeigth * .70,
+            child: MyDotsApp(
+              currentIndex: _currentIndex,
+            ),
           ),
         ],
       ),
