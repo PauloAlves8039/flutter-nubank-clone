@@ -20,7 +20,6 @@ class PageViewApp extends StatelessWidget {
       height: MediaQuery.of(context).size.height * .45,
       left: 0,
       right: 0,
-      // width: MediaQuery.of(context).size.width,
       child: GestureDetector(
         onPanUpdate: onPanUpdate,
         child: PageView(
