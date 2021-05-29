@@ -1,16 +1,25 @@
-# nubank_clone
+<h1 align="center">Nubank Clone</h1>
 
-A new Flutter project.
+<p align="center">
+  <a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-v1.17.5-blue"></a>
+  <a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-v2.8.4-%2363B8FF"></a>
+</p>
 
-## Getting Started
+## :computer: Projeto
 
-This project is a starting point for a Flutter application.
+Aplicação mobile para simular a interface Home do Nubank, código fonte do projeto foi desenvolvido com base na serie de vídeos
+[Criando a Home do Nubank com Flutter](https://www.youtube.com/watch?v=46AJuWhKnsY&list=PLHAtJbrQ17AUH21bcdrA0HKP7OroUg2nI).
 
-A few resources to get you started if this is your first Flutter project:
+## :wrench: Recursos Utilizados
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Visual Studio Code v1.56.2](https://code.visualstudio.com/).
+- [Flutter v1.17.5](https://flutter.dev/).
+- [Dart v2.8.4](https://dart.dev/).
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## :floppy_disk: Clonar repositório
+
+```git clone https://github.com/PauloAlves8039/flutter-nubank-clone.git```
+
+## Author
+
+:boy: [Paulo Alves](https://github.com/PauloAlves8039)
