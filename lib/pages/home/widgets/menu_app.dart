@@ -14,7 +14,7 @@ class MenuApp extends StatelessWidget {
       left: 0,
       right: 0,
       child: AnimatedOpacity(
-        duration: Duration(milliseconds: 200),
+        duration: Duration(milliseconds: 100),
         opacity: showMenu ? 1 : 0,
         child: Container(
           // color: Colors.red,
