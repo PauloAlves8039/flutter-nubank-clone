@@ -158,7 +158,7 @@ class FirstCard extends StatelessWidget {
                       color: Colors.grey,
                     ),
                     SizedBox(
-                      width: 5,
+                      width: 10,
                     ),
                     Flexible(
                       child: Text(
