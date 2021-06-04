@@ -20,6 +20,11 @@ Aplicação mobile para simular a interface Home do Nubank, código fonte do pro
 
 ```git clone https://github.com/PauloAlves8039/flutter-nubank-clone.git```
 
+## :camera: Screenshots
+
+<p align="center"> <img src="https://github.com/PauloAlves8039/flutter-nubank-clone/blob/master/assets/imagens/screenshot1.png" /> </p>
+<p align="center"> <img src="https://github.com/PauloAlves8039/flutter-nubank-clone/blob/master/assets/imagens/screenshot2.png" /> </p>
+
 ## Author
 
 :boy: [Paulo Alves](https://github.com/PauloAlves8039)
